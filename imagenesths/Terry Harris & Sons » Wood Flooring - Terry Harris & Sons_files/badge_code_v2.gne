@@ -1,0 +1,12 @@
+var b_txt = '';
+
+// write the badge
+	
+	
+		 	 		
+	b_txt+= '<div class="flickr_badge_image" id="flickr_badge_image1"><a href="http://www.flickr.com/photos/108772247@N03/14277704530/"><img src="http://farm4.staticflickr.com/3895/14277704530_10ac7ac123_s.jpg" alt="Una foto de Flickr" title="Our new logo!" height="75" width="75"></a></div>';
+
+
+b_txt += '<span style="position:absolute;left:-999em;top:-999em;visibility:hidden" class="flickr_badge_beacon"><img src="http://geo.yahoo.com/p?s=792600102&t=626af76239efd1f22698aab5a5850fc5&fl_ev=0&lang=es&intl=mx" width="0" height="0" alt="" /></span>';
+
+document.write(b_txt);
