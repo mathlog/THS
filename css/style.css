@@ -1,7 +1,4 @@
 /*
-Theme Name: 	Archit - Responsive HTML5 Template
-Theme URI: 	http://www.colorsthemes.com/archit/
-Author: 	ColorsThemes
 */
 
 /*
@@ -31,7 +28,7 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #528fcc;
+	color: #000000;
 }
 a:hover, a:focus {
 	color: #1f5c99;
